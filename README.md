@@ -10,6 +10,7 @@ This project creates a fully automated workflow for:
 - Automatic Gaussian Splat training with Brush or Lichtfeld Studio
 
 The pipeline directly converts raw drone or camera images into a trained Gaussian Splat scene.
+![Splat](img/Splat.png)
 
 ---
 
